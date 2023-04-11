@@ -1,5 +1,5 @@
 # TeamCardBuilder
-
+This Team Card Builder was made using JavaScript, CSS, and HTML
 
 # USER STORY
 WHEN I enter "node index.js" into the terminal
@@ -26,4 +26,5 @@ THEN the card will appear in color and the other cards will be in greyscale
 # GiF
 ![](Week-10-Vid.gif)
 
-
+# Liscence
+MIT
