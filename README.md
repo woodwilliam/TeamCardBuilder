@@ -24,7 +24,7 @@ WHEN I move my mouse over a card
 THEN the card will appear in color and the other cards will be in greyscale
 
 # GiF
-![](Week-10-Vid.gif)
+![Untitled_ Apr 13, 2023 1_57 PM (2)](https://user-images.githubusercontent.com/63683722/231858362-a9c84f44-237b-48af-b29a-f78b73015f11.gif)
 
 # Liscence
 MIT
